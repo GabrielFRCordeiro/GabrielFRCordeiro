@@ -16,13 +16,13 @@
 
 - 📫 How to reach me:  
     <div>
-        <a href="https://www.linkedin.com/in/gabrielfrcordeiro/" target="_blank">
-            <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+        <a href="https://www.linkedin.com/in/gabrielfrcordeiro/">
+            <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
         </a>
-        <a href="mailto:gabrielfrcor@gmail.com" target="_blank">
-            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+        <a href="mailto:gabrielfrcor@gmail.com">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="_blank" />
         </a>
-        <a href="https://gabrielfrcordeiro.github.io/portifolio/" target="_blank">
-            <img height="40px" src="https://svgsilh.com/svg/1873373.svg" />
+        <a href="https://gabrielfrcordeiro.github.io/portifolio/">
+            <img height="40px" src="https://svgsilh.com/svg/1873373.svg" target="_blank" />
         </a>
     </div>
