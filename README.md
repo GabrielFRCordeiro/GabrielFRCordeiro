@@ -31,3 +31,4 @@
 ---
 
 | ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=tokyonight) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=tokyonight&hide_border=true) |
+| --- | --- |
