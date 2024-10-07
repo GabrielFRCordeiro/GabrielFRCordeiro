@@ -1,4 +1,4 @@
-## <center> Hello World, my name is Gabriel 👋 </center>
+<h2 align="center"> Hello World, my name is Gabriel 👋 </h2>
 
 ![dev coding and drinking coffee](https://media.tenor.com/8tr_CU6730MAAAAM/web-dev-website-development.gif)
 
@@ -12,7 +12,7 @@
 
 ---
 
-### <center> My technologies </center>
+<h3 align="center"> My technologies </h3>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50em"/>
@@ -30,5 +30,4 @@
 
 ---
 
-![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=tokyonight)
-![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=tokyonight&hide_border=true)
+| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=tokyonight) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=tokyonight&hide_border=true) |
