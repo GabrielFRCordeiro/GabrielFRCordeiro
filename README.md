@@ -1,6 +1,6 @@
 <h2 align="center"> Hello World, my name is Gabriel 👋 </h2>
 
-![dev coding and drinking coffee](https://media.tenor.com/8tr_CU6730MAAAAM/web-dev-website-development.gif)
+<img src="https://cdn.dribbble.com/users/3375/screenshots/2550813/media/192a165085af18ca711d0827baf01cd0.gif" alt="a programmer's home pc transforming into theirs work pc" width="100%" />
 
 ---
 
@@ -14,9 +14,11 @@
 
 ---
 
-<h3 align="center"> My technologies </h3>
+<h3 align="center"> My Skills </h3>
 
-<div>
+<br>
+
+<div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50em" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50em"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50em"/>
@@ -28,13 +30,40 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50em" />
 </div>
 
-| Courses | Institute | Certificates |
-| ------- | --------- | ------------ |
-| HTML e CSS | Alura | [Certificate](https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595)
-| JavaScript CodeCamp | DIO | [Certificate](https://hermes.digitalinnovation.one/certificates/8164CFA6.pdf?_gl=1*189283s*_ga*MTM0ODQ0OTk5Mi4xNjY5NjUwMTUy*_ga_7GXMH3CQ72*MTY3ODk2Nzc4MC4zMy4xLjE2Nzg5Njk5ODUuNTUuMC4w)
-| Python Essentials 1 | Cisco | [Certificate](https://www.credly.com/badges/8ab4dbda-d227-43ed-b135-ed95a2165412/public_url)
+<br>
+
+<table align="center">
+          <thead>
+                    <tr>
+                              <td>Courses</td>
+                              <td>Institute</td>
+                              <td>Certificate</td>
+                    </tr>
+          </thead>
+          <tbody>
+                    <tr>
+                              <td>HTML e CSS</td>
+                              <td>Alura</td>
+                              <td><a href="https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595">Certificate</a></td>
+                    </tr>
+                    <tr>
+                              <td>JavaScript CodeCamp</td>
+                              <td>DIO</td>
+                              <td><a href="https://hermes.digitalinnovation.one/certificates/8164CFA6.pdf?_gl=1*189283s*_ga*MTM0ODQ0OTk5Mi4xNjY5NjUwMTUy*_ga_7GXMH3CQ72*MTY3ODk2Nzc4MC4zMy4xLjE2Nzg5Njk5ODUuNTUuMC4w">Certificate</a></td>
+                    </tr>
+                    <tr>
+                              <td>Python Essentials 1</td>
+                              <td>Cisco</td>
+                              <td><a href="https://www.credly.com/badges/8ab4dbda-d227-43ed-b135-ed95a2165412/public_url">Certificate</a></td>
+                    </tr>
+          </tbody>
+          
+</table>
 
 ---
 
-| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=tokyonight&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFRCordeiro&theme=tokyonight&hide_border=true) |
-| --- | --- | --- |
+<h3 align="center">GitHub Analytics</h3>
+
+| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=donut&theme=gruvbox&hide_border=true) |
+| --- | --- |
+| ![Gabriel Cordeiro's contributions stats](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFRCordeiro&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's GitHub trophies](https://github-profile-trophy.vercel.app/?username=GabrielFRCordeiro&theme=gruvbox&row=2&column=3&no-frame=true) |
