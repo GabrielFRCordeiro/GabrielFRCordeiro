@@ -1,6 +1,8 @@
 <h2 align="center"> Hello World, my name is Gabriel 👋 </h2>
 
-<img src="https://cdn.dribbble.com/users/3375/screenshots/2550813/media/192a165085af18ca711d0827baf01cd0.gif" alt="a programmer's home pc transforming into theirs work pc" width="100%" />
+<div align="center">
+          <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="a programmer's home pc transforming into theirs work pc" />
+</div>
 
 ---
 
