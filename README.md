@@ -12,7 +12,7 @@ I'm currently studying on Senac Santana to become a front-end developer.
 ---
 
 ## 🚀 My Skills
-[![React, Bootstrap, SASS, Figma, HTML, CSS, Java Script, Python, Flask, MySQL, GCP, Markdown, Pycharm, VS Code, Git](https://skillicons.dev/icons?i=react,bootstrap,sass,figma,html,css,javascript,python,flask,mysql,gcp,md,pycharm,vscode,git)](https://skillicons.dev)
+[![React, Bootstrap, SASS, Figma, HTML, CSS, Java Script, Python, Flask, MySQL, Markdown, Pycharm, VS Code, Git](https://skillicons.dev/icons?i=react,bootstrap,sass,figma,html,css,javascript,python,flask,mysql,md,pycharm,vscode,git)](https://skillicons.dev)
 
 <br>
 
@@ -36,9 +36,14 @@ I'm currently studying on Senac Santana to become a front-end developer.
                               <td><a href="https://hermes.digitalinnovation.one/certificates/8164CFA6.pdf?_gl=1*189283s*_ga*MTM0ODQ0OTk5Mi4xNjY5NjUwMTUy*_ga_7GXMH3CQ72*MTY3ODk2Nzc4MC4zMy4xLjE2Nzg5Njk5ODUuNTUuMC4w">Certificate</a></td>
                     </tr>
                     <tr>
-                              <td>Python Essentials 1</td>
+                              <td>Python Essentials 2</td>
                               <td>Cisco</td>
-                              <td><a href="https://www.credly.com/badges/8ab4dbda-d227-43ed-b135-ed95a2165412/public_url">Certificate</a></td>
+                              <td><a href="https://www.credly.com/badges/0ceb1628-de99-41b0-9f90-d272216c8305/public_url">Certificate</a></td>
+                    </tr>
+                    <tr>
+                              <td>Red Hat Certified System Administrator</td>
+                              <td>Red Hat</td>
+                              <td><a href="https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/20333c43-6fc8-44d4-85a0-01abafe18dd1">Certificate</a></td>
                     </tr>
           </tbody>       
 </table>
