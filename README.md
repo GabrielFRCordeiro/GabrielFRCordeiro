@@ -5,14 +5,14 @@ I'm currently studying on Senac Santana to become a front-end developer.
 💻 I'm part of Fresh Photo's dev team.
 
 💬 Reach me at 
-[![Linkedin](https://img.shields.io/badge/-gabrielfrcordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielfrcordeiro/)](https://www.linkedin.com/in/gabrielfrcordeiro/) 
+[![Linkedin](https://img.shields.io/badge/-gabrielfrcordeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielfrcordeiro/)](https://www.linkedin.com/in/gabrielfrcordeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielfrcor@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielfrcor@gmail.com)](mailto:gabrielfrcor@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/GabrielFRCordeiro?label=follow&style=social)](https://github.com/GabrielFRCordeiro)
 
 ---
 
 ## 🚀 My Skills
-[![React, Bootstrap, SASS, Figma, HTML, CSS, Java Script, Python, Flask, MySQL, Markdown, Pycharm, VS Code, Git](https://skillicons.dev/icons?i=react,bootstrap,sass,figma,html,css,javascript,python,flask,mysql,md,pycharm,vscode,git)](https://skillicons.dev)
+[![React, Bootstrap, SASS, Figma, HTML, CSS, Java Script, Python, Flask, MySQL, Markdown, Pycharm, VS Code, Git](https://skillicons.dev/icons?i=html,css,javascript,git,vscode,figma,illustrator,photoshop,bootstrap,react,next,typescript,nodejs,express,python,flask,mysql,sass&perline=9)](https://skillicons.dev)
 
 <br>
 
