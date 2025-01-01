@@ -21,29 +21,54 @@ I'm currently studying on Senac Santana to become a front-end developer.
                     <tr>
                               <td>Courses</td>
                               <td>Institute</td>
-                              <td>Certificate</td>
+                              <td>Skills</td>
                     </tr>
           </thead>
           <tbody>
                     <tr>
-                              <td>HTML e CSS</td>
+                              <td><a href="https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595">HTML e CSS</a></td>
                               <td>Alura</td>
-                              <td><a href="https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595">Certificate</a></td>
+                              <td>HTML, CSS, VS Code</td>
                     </tr>
                     <tr>
-                              <td>JavaScript CodeCamp</td>
+                              <td><a href="https://hermes.digitalinnovation.one/certificates/8164CFA6.pdf?_gl=1*189283s*_ga*MTM0ODQ0OTk5Mi4xNjY5NjUwMTUy*_ga_7GXMH3CQ72*MTY3ODk2Nzc4MC4zMy4xLjE2Nzg5Njk5ODUuNTUuMC4w">JavaScript CodeCamp</a></td>
                               <td>DIO</td>
-                              <td><a href="https://hermes.digitalinnovation.one/certificates/8164CFA6.pdf?_gl=1*189283s*_ga*MTM0ODQ0OTk5Mi4xNjY5NjUwMTUy*_ga_7GXMH3CQ72*MTY3ODk2Nzc4MC4zMy4xLjE2Nzg5Njk5ODUuNTUuMC4w">Certificate</a></td>
+                              <td>JavaScript, VS Code</td>
                     </tr>
                     <tr>
-                              <td>Python Essentials 2</td>
+                              <td><a href="https://cursos.alura.com.br/certificate/7da5a1ee-f0c2-4a7e-a218-30af06f770db">Figma: design visual de um site mobile</a></td>
+                              <td>Alura</td>
+                              <td>UX, Figma</td>
+                    </tr>
+                    <tr>
+                              <td><a href="https://hermes.dio.me/certificates/N5ANLF0R.pdf">Formação GitHub Certification</a></td>
+                              <td>DIO</td>
+                              <td>Git, GitHub</td>
+                    </tr>
+                    <tr>
+                              <td><a href="https://hermes.dio.me/certificates/KUAXNWA4.pdf">Formação React Developer</a></td>
+                              <td>DIO</td>
+                              <td>ReactJS, TypeScript, NextJS, VS Code</td>
+                    </tr>
+                     <tr>
+                              <td><a href="https://hermes.dio.me/certificates/IMLKLJLO.pdf">Formação Node.js Fundamentals</a></td>
+                              <td>DIO</td>
+                              <td>NodeJS, TypeScript, ExpressJS, API, REST, RESTful, HTTP, npm VS Code</td>
+                    </tr>
+                    <tr>
+                              <td><a href="https://hermes.dio.me/certificates/CZZSJYA9.pdf">Formação TypeScript FullStack Developer</a></td>
+                              <td>DIO</td>
+                              <td>ReactJS, TypeScript, NodeJS, OOP, VS Code</td>
+                    </tr>
+                    <tr>
+                              <td><a href="https://www.credly.com/badges/0ceb1628-de99-41b0-9f90-d272216c8305/public_url">Python Essentials 2</a></td>
                               <td>Cisco</td>
-                              <td><a href="https://www.credly.com/badges/0ceb1628-de99-41b0-9f90-d272216c8305/public_url">Certificate</a></td>
+                              <td>Python, OOP</td>
                     </tr>
                     <tr>
-                              <td>Red Hat Certified System Administrator</td>
+                              <td><a href="https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/20333c43-6fc8-44d4-85a0-01abafe18dd1">Red Hat Certified System Administrator</a></td>
                               <td>Red Hat</td>
-                              <td><a href="https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/20333c43-6fc8-44d4-85a0-01abafe18dd1">Certificate</a></td>
+                              <td>Red Hat</td>
                     </tr>
           </tbody>       
 </table>
