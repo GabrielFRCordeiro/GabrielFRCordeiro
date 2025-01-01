@@ -12,7 +12,7 @@ I'm currently studying on Senac Santana to become a front-end developer.
 ---
 
 ## 🚀 My Skills
-[![React, Bootstrap, SASS, Figma, HTML, CSS, Java Script, Python, Flask, MySQL, Markdown, Pycharm, VS Code, Git](https://skillicons.dev/icons?i=html,css,javascript,git,vscode,figma,illustrator,photoshop,bootstrap,react,next,typescript,nodejs,express,python,flask,mysql,sass&perline=9)](https://skillicons.dev)
+[![HTML, CSS, JavaScript, Git, VS Code, Figma, Illustrator, Photoshop, Bootstrap, React, Next, TypeScript, Node, Express, Python, Flask, MySQL, SASS](https://skillicons.dev/icons?i=html,css,javascript,git,vscode,figma,illustrator,photoshop,bootstrap,react,next,typescript,nodejs,express,python,flask,mysql,sass&perline=9)](https://skillicons.dev)
 
 <br>
 
