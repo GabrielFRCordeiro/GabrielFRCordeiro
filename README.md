@@ -12,7 +12,7 @@ I'm currently studying on Senac Santana to become a front-end developer.
 ---
 
 ## 🚀 My Skills
-[![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, MySQL, Express, React, Node, Git, VS Code, Python, Flask, Next](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,mysql,express,react,nodejs,git,vscode,python,flask,next&perline=9)](https://skillicons.dev)
+[![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, MySQL, Express, React, Node, Git, VS Code, Python, Flask](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,mysql,express,react,nodejs,git,vscode,python,flask&perline=9)](https://skillicons.dev)
 
 <br>
 
@@ -26,7 +26,7 @@ I'm currently studying on Senac Santana to become a front-end developer.
           </thead>
           <tbody>
                     <tr>
-                              <td><a href="https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595">HTML e CSS</a></td>
+                              <td><a href="https://cursos.alura.com.br/degree/certificate/e0c73d06-74fb-4c8a-92a2-85aa1b211595" target="_blank">HTML e CSS</a></td>
                               <td>Alura</td>
                               <td>HTML, CSS</td>
                     </tr>
