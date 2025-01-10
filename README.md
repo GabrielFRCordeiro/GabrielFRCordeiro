@@ -61,7 +61,7 @@ I'm currently studying on Senac Santana to become a front-end developer.
 ---
 
 ## ⚙️ GitHub Analytics
-| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=donut&theme=gruvbox&hide_border=true) |
+| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=donut&theme=gruvbox&hide_border=true&langs_count=6) |
 | --- | --- |
 
 
