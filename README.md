@@ -1,6 +1,6 @@
 ## 💜 Hello World, my name is Gabriel!
 
-I'm currently studying on Senac Santana to become a front-end developer.
+I'm currently studying on Senac Santana and on Fatec-SP to become a front-end developer.
 
 💻 I'm part of Fresh Photo's dev team.
 
