@@ -12,7 +12,8 @@ I'm currently studying on Senac Santana and on Fatec-SP to become a front-end de
 ---
 
 ## 🚀 My Skills
-[![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, MongoDB, Express, React, Node, Git, VS Code, Python, Flask, MySQL](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,mongodb,express,react,nodejs,git,vscode,python,flask,mysql&perline=9)](https://skillicons.dev)
+| ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=gruvbox&hide_border=true&langs_count=6) | [![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, MongoDB, Express, React, Node, Git, VS Code, Python, Flask, MySQL](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,mongodb,express,react,nodejs,git,vscode,python,flask,mysql&perline=9)](https://skillicons.dev) |
+| --- | --- |
 
 <br>
 
@@ -31,19 +32,9 @@ I'm currently studying on Senac Santana and on Fatec-SP to become a front-end de
                               <td>HTML, CSS</td>
                     </tr>
                     <tr>
-                              <td><a href="https://cursos.alura.com.br/certificate/7da5a1ee-f0c2-4a7e-a218-30af06f770db">Figma: design visual de um site mobile</a></td>
-                              <td>Alura</td>
-                              <td>UX, Figma</td>
-                    </tr>
-                    <tr>
                               <td><a href="https://hermes.dio.me/certificates/KUAXNWA4.pdf">Formação React Developer</a></td>
                               <td>DIO</td>
                               <td>ReactJS, TypeScript, JavaScript, NextJS</td>
-                    </tr>
-                     <tr>
-                              <td><a href="https://hermes.dio.me/certificates/IMLKLJLO.pdf">Formação Node.js Fundamentals</a></td>
-                              <td>DIO</td>
-                              <td>NodeJS, TypeScript, ExpressJS, npm, HTTP, API, REST, RESTful</td>
                     </tr>
                     <tr>
                               <td><a href="https://hermes.dio.me/certificates/CZZSJYA9.pdf">Formação TypeScript FullStack Developer</a></td>
@@ -59,11 +50,6 @@ I'm currently studying on Senac Santana and on Fatec-SP to become a front-end de
 </table>
 
 ---
-
-## ⚙️ GitHub Analytics
-| ![Gabriel Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFRCordeiro&show_icons=true&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=donut&theme=gruvbox&hide_border=true&langs_count=6) |
-| --- | --- |
-
 
 ## 🏆 GitHub Trophies
 ![Gabriel Cordeiro's GitHub trophies](https://github-profile-trophy.vercel.app/?username=GabrielFRCordeiro&row=1&column=5&theme=gruvbox&no-frame=true)
