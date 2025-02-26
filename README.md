@@ -1,8 +1,8 @@
 ## 💜 Hello World, my name is Gabriel!
 
-I'm currently studying on Senac Santana and on Fatec-SP to become a front-end developer.
+I'm currently studying on Fatec-SP to become a front-end developer.
 
-💻 I'm part of Fresh Photo's dev team.
+💻 I work on personal and group projects to further my skills.
 
 💬 Reach me at 
 [![Linkedin](https://img.shields.io/badge/-gabrielfrcordeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielfrcordeiro/)](https://www.linkedin.com/in/gabrielfrcordeiro/) 
