@@ -12,7 +12,7 @@ I'm currently studying on Senac Santana and on Fatec-SP to become a front-end de
 ---
 
 ## 🚀 My Skills
-| ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=gruvbox&hide_border=true&langs_count=6) | [![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, MongoDB, Express, React, Node, Git, VS Code, Python, Flask, MySQL](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,mongodb,express,react,nodejs,git,vscode,python,flask,mysql&perline=9)](https://skillicons.dev) |
+| ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=compact&theme=gruvbox&hide_border=true&langs_count=6) | [![HTML, CSS, JavaScript, Bootstrap, SASS, Figma, Illustrator, Photoshop, Typescript, Redux, MongoDB, Express, React, Node, Git, VS Code, Python, Flask, Red Hat, MySQL](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,figma,illustrator,photoshop,typescript,redux,mongodb,express,react,nodejs,git,vscode,python,flask,redhat,mysql&perline=10)](https://skillicons.dev) |
 | --- | --- |
 
 <br>
